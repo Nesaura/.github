@@ -1,3 +1,5 @@
+![Alt text](https://i.imgur.com/EIugifS.png "LIBRE")
+
 ## Hello! 👋
 
 Welcome to Nesaura. Our organisation is all about free-of-charge, open-source software.
