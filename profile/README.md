@@ -1,4 +1,4 @@
-![Alt text](https://i.imgur.com/EIugifS.png "LIBRE")
+![Alt text](https://i.imgur.com/HRn607b.png "LIBRE")
 
 ## Hello! 👋
 
